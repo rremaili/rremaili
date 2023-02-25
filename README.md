@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rremaili
 - 👀 I’m interested in Machine Learning and Data Science
-- 🌱 I’m currently learning sklearn and keras
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on sound processing and image processing
 - 📫 How to reach me at roberto.remaili@yahoo.com.br
 
 <!---
